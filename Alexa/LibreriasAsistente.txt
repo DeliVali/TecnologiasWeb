@@ -1,0 +1,19 @@
+Librerias que se utilizan en el programa:
+
+(1).-pip install wikipedia
+https://pypi.org/project/wikipedia/
+
+(2).-pip install pyttsx3
+https://pypi.org/project/pyttsx3/
+
+(3).-pip install pywhatkit
+https://pypi.org/project/pywhatkit/
+
+(4).-pip install pyjokes
+https://pypi.org/project/pyjokes/
+
+(5).-pip install paho-mqtt
+https://pypi.org/project/paho-mqtt/
+
+(6).-pip install SpeechRecognition
+https://pypi.org/project/SpeechRecognition/
